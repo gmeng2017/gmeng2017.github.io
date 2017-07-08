@@ -1,15 +1,31 @@
-# About
+基于jekyll博客应用主题
+===
 
-This is my blog based on jekyll. And I change the style and interactive. If you want to use this model of the blog. **Please give a star at this repository**. Then you can clone it as your blog model.
+pithy是一款适用于jekyll的博客应用主题，基于bootstrap前端框架开发。本着简约的视觉效果设计，目的是希望博客的浏览者能够更多的看到博客内容。
 
-You can visit [here](http://gmeng2017.github.io) to see this blog.
+使用说明
+===
 
----
+本主题是自由，免费，开源的，你可以克隆为新的仓库作为自己的博客。当然，在克隆仓库时为本主题加颗星，在使用时注明power by pithy，那将是对我最大的支持和鼓励。
 
-这是我的博客，基于 jekyll。和Gaohaoyang的模板， **使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
-我改了部分与自己相关的内容
+主题效果
+===
+- 首页
+- 
 
+- 列表
+- 
 
--->
+- 文章
+- 
 
+反馈
+===
 
+在你浏览或使用本主题时，发现问题或者是有好的建议，希望能够在这里给予反馈。
+
+[New Issue](https://github.com/guovz/pithy/issues/new)
+
+License
+===
+[MIT License](https://github.com/guovz/pithy/blob/gh-pages/LICENSE.md)
