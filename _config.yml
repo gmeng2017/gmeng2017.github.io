@@ -22,7 +22,7 @@ kramdown:
 
 
 # 地址设置
-baseurl: "/jekyll-pithy"
+baseurl: "/gmeng2017.github.io"
 url: "http://127.0.0.1:4000"
 
 
